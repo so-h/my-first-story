@@ -2,4 +2,4 @@
 
 Hello my name is hyun
 
-<img width="" height="" src="./Png/dog.png"></img>
+<img width="" height="" src="./Png/App.png"></img>

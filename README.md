@@ -1,5 +1,4 @@
-# my-first-story
+# 19173030 박소현
 
-Hello my name is hyun
-
+#2주차 과제
 <img width="" height="" src="./Png/App.png"></img>
